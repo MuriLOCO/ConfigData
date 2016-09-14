@@ -38,10 +38,3 @@ spring:
   profiles: sentence
 server:
   port: 8020
----
-spring:
-  application:
-    name: lucky-word-client
-wordConfig:
-  lucky-word: American
-  preamble: The nationality is
