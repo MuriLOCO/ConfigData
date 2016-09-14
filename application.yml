@@ -43,5 +43,5 @@ spring:
   application:
     name: lucky-word-client
 wordConfig:
-  lucky-word: Afriacan
+  lucky-word: American
   preamble: The nationality is
