@@ -39,5 +39,7 @@ spring:
 server:
   port: 8020
 ---
+spring:
+  profiles: word-server-lab9
 zuul:
   prefix: /services
