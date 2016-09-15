@@ -38,3 +38,6 @@ spring:
   profiles: sentence
 server:
   port: 8020
+---
+zull:
+  prefix: /services
